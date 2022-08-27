@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
 <!--💬🃏QUOTESCARD / 🌐WEBSITE: https://github.com/PiyushSuthar/github-readme-quotes#Demo & https://github.com/shravan20/github-readme-quotes -->
 <p align="center">
-<img src="../../assets/images/beginner-quotes.png">
+<img src="../../assets/images/beginner-quote.png">
 <p align="center">
 
 ## Table of contents
