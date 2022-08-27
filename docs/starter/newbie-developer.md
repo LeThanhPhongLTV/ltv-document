@@ -15,7 +15,7 @@
 ## Table of contents
 - 🍷 [Introduction](#introduction)
 - 🚩 [The most common problems beginners encounter](#heading1)
-  * [Sub paragraph](#heading1.1)
+  * [Github](#heading1.1)
     + [Sub para heading](#subparaheading1)
   * [Sub paragraph](#subparagraph2)
   * [Sub paragraph](#subparagraph3)
