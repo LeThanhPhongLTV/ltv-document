@@ -13,18 +13,21 @@
 <p align="center">
 
 ## Table of contents
-1. [Introduction](#Introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-    2. [Sub paragraph](#subparagraph1)
-    3. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+- 🍷 [Introduction](#introduction)
+- 🚩 [The most common problems beginners encounter](#heading1)
+  * [Sub paragraph](#heading1.1)
+    + [Sub para heading](#subparaheading1)
+  * [Sub paragraph](#subparagraph2)
+  * [Sub paragraph](#subparagraph3)
+- [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="Introduction"></a>
-Some introduction text, formatted in heading 2 style
+## Introduction <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> <a name="introduction"></a>
+<p style="text-indent: 0.25rem;"> This is a document about knowing and learning beginner technical requirements. But it's also more. It will help you speed up the learning process and observe team workflow way faster. So let's get started! 🌱</p>
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
+## The most common problems beginners encounter <a name="heading1"></a>
+The first thing I want to discuss 💬 is some problems that me when I was a beginner joining a software development team. I found it difficult to know where I need to start and what need to do 📝. So here are some common problems I have faced to let you guys know what to focus on and how to start working as a team member in an LTV development team.
+### Github <img src="../../assets/images/github.svg" width="18"><a name="heading1.1"></a>
+sd
 
 ### Sub paragraph <a name="subparagraph1"></a>
 This is a sub paragraph, formatted in heading 3 style
