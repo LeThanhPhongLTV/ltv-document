@@ -5,8 +5,8 @@
 </br> <b>Today</b>, I will guide through step by step not only the necessary technical requirements for a LTV developer <img src="https://cdn-icons-png.flaticon.com/512/1096/1096713.png" width="13"/>  but also  the company culture <img src="https://cdn-icons-png.flaticon.com/512/1534/1534938.png" width="15"/>.</p>
 
 ## Let's get started
-If you're already have experience in <b> Software Development </b> field (1-2 years and more) then please checkout this document <a href="https://github.com/LeThanhPhongLTV/ltv-document/blob/main/documents/starter/experience-developer.md">Experience developer document</a>.
-</br> And if you're newbie then checkout this document <a href="https://github.com/LeThanhPhongLTV/ltv-document/blob/main/documents/starter/newbie-developer.md">LTV developer started document</a>.
+If you're already have experience in <b> Software Development </b> field (1-2 years and more) then please checkout this document <a href="https://github.com/LeThanhPhongLTV/ltv-document/blob/main/docs/starter/experience-developer.md">Experience developer document</a>.
+</br> And if you're newbie then checkout this document <a href="https://github.com/LeThanhPhongLTV/ltv-document/blob/main/docs/starter/newbie-developer.md">LTV developer started document</a>.
 </br> **_Try to think of this document as a reference tool_**; I hope it is something that you can learn 📚 and adapt to your work faster 📈.
 
 <p align="center">
