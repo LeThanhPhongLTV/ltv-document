@@ -1,0 +1,19 @@
+{
+  "name": "ltv-document",
+  "version": "1.0.1",
+  "description": "Write LTV document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeThanhPhongLTV/ltv-document.git"
+  },
+  "author": "phong.lt@ltv.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeThanhPhongLTV/ltv-document/issues"
+  },
+  "homepage": "https://github.com/LeThanhPhongLTV/ltv-document#readme"
+}
