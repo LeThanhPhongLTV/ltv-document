@@ -7,7 +7,7 @@
 ## Let's get started
 If you're already have experience in <b> Software Development </b> field (1-2 years and more) then please checkout this document <a href="https://github.com/LeThanhPhongLTV/ltv-document/blob/main/documents/starter/experience-developer.md">Experience developer document</a>.
 </br> And if you're newbie then checkout this document <a href="https://github.com/LeThanhPhongLTV/ltv-document/blob/main/documents/starter/newbie-developer.md">LTV developer started document</a>.
-</br> *Try to think of this document as a reference tool*; I hope it is something that you can learn 📚 and adapt to your work faster 📈.
+</br> **_Try to think of this document as a reference tool_**; I hope it is something that you can learn 📚 and adapt to your work faster 📈.
 
 <p align="center">
  <img align="center" alt="GIF" src="./assets/images/coding-gif.gif" width="500" height="320" />
