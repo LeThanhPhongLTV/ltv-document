@@ -96,8 +96,10 @@ So you want to have a day off; Vacation Tracker is an easy-to-use leave tracking
 - ❗*Not asking for support*: This is the biggest problem of all. Trying to work on a problem by yourself but not knowing where to start and what to do is time-consuming for not only you but other team members. So if you find that the problem is kinda hard for the current skill level you have or not know to solve it then asking other developers for help is the **`BEST`** solution.
 - ❗*Not asking questions*: *“What the hell is going on?”* after reading the requirements or in a team meeting. Do not understand the requirements or some confusion and again all you need to do is just **`ASK`**; Instead you just silently work on your idea despite the confusion you have.
 - ❗*Not spending time for team communication*: Spending time chatting or talking with other developers is a great way to learn faster and make connection in a team; Because in different projects you will work with different team member so make a move not harm anything.
-- ❗*Not reading this document*: Yeah! You need to read this document.
+- ❗*Not reading this document*: Yeah! You need to read this document. 
+
 <div align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>Thank you for spending time reading</b> so if you have any suggestions please let me know. <b>I'll be happy to help you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>Thank you for spending time reading</b> so if you have any suggestions please let me know. <b>I'll be happy to help you more!</b> 😊 <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
  </div>
 
