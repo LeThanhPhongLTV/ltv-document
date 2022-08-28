@@ -15,10 +15,11 @@
 ## Table of contents
 - 🍷 [Introduction](#introduction)
 - 🛠️ [Technical Knowledgement](#heading1)
-  * [Github](#heading1.1)
-    + [Sub para heading](#heading1.1.1)
-  * [Jira Software](#heading1.2)
-    + [Sub para heading](#heading1.2.1)
+  * [Jira Software](#heading1.1)
+    + [Pick the User story/Requirements for the sprint](#heading1.1.1)
+    + [Pick the task and start work](#heading1.1.2)
+  * [Github](#heading1.2)
+    + [Github workflow](#heading1.2.1)
   * [Slack](#heading1.3)
     + [Sub para heading](#heading1.3.1)
 - ⛔ [Common Problems as a Beginner](#heading2)
@@ -27,16 +28,65 @@
 <p style="text-indent: 0.25rem;"> This is a document about knowing and learning beginner technical requirements. But it's also more. It will help you speed up the learning process and observe team workflow way faster 🚀. 
  </br> Each section is independent; you don't need to read it in order, so if there is a particular section you are interested in, feel free to skip to it. Let's get started! 🌱</p>
 
-## Technical Knowledgement <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <a name="heading1"></a>
-The first thing I want to discuss 💬 are some technical problems when I was a beginner joining a software development team. I found it difficult to know where I need to start and what need to do 📝. So here are some common problems I have faced to let you guys know what to focus on and how to start working as a team member in an LTV development team.
-### Github <img src="../../assets/images/github.svg" width="18"><a name="heading1.1"></a>
+## I. Technical Knowledgement <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <a name="heading1"></a>
+The first thing I want to discuss 💬 are some technical problems when I was a beginner joining a Software Development Team. I found it difficult to know where I need to start and what need to do 📝. So here are some common problems I have faced to let you guys know what to focus on and how to start working as a team member in an LTV Development Team.
+
+### 1.1. Jira Software <img src="https://fd-assets.prod.atl-paas.net/image/logos/contrib/jira-software/icons/white.svg" width="18"><a name="heading1.1"></a>
+Jira is a software application used for <b>issue tracking and project management</b>being operated and used in the company. So here are some notes you have to remember 📝.
+
+#### 1.1.1. Pick the User story/Requirements for the sprint 💎 <a name="heading1.1.1"></a>
+- ▶️ In each sprint , the kick-off meeting will be happening on the 1st day of the sprint.
+- ⏩ In the kick-off meeting , the development team **`MUST`** pick the User Stories / Requirements that will be burning within the sprint.
+- ✅ The Product Owner **`MUST`** check and confirm the User Stories / Requirements picked from Development Team.
+- #️⃣ After the kick-off meeting an hour, the development team **`MUST`** break down the User Stories into multiple (or single) sub-tasks.
+- ⏲️ Every single sub-tasks must be estimated and the estimation time **`MUST`** be less than or equal **to 8 hours**. The fix-version, sprint, labels **`MUST`** be filled in each task.
+- 🤝 The Project Leader **`MUST`** check and make sure all the sub-tasks are estimated and all the User Stories can be finished within the sprint. If not, please arrange the ad-hoc meeting to re-arrange the meeting to align again.
+- 🎯 The Project Leader update the sprint goal (Sprint description).
+
+```mermaid
+  flowchart LR;
+      A[Kick-off meeting]-->B[Pick user stories];
+      B-->C[Break down into mutiple sub-tasks];
+      C-->D[Estimate sub-tasks];
+```
+
+#### 1.1.2. Pick the task and start work 💎 <a name="heading1.1.2"></a>
+- ⏲️ In the daily meeting, the development team will pick the sub-tasks that they can finish within that day. Total hours of the picked tasks are **no greater than 8 hours**.
+- 💻 Change the status to **`In Progress`**.
+- ⏳ Add Time Tracking at the end of the day **(Even finished or not)**.
+- ✅ Update the status to **`Implemented`** (optional). if complete the task.
+- 💬 Comment on task if there is any concern or discussion.
+
+```mermaid
+  flowchart LR;
+      A[Pick sub-tasks]-->B[Change status In Progress];
+      B -- finished or not -->C[Add time tracking];
+      C -- optional -->D[Change status Implemented];
+      C-->E[Discussion];
+      D --> E;
+```
+
+### 1.2. Github <img src="../../assets/images/github.svg" width="18"><a name="heading1.2"></a>
 Yes! Hand down, Github is the most used service of any IT organization including LTV and I know that you already have some experience using Git but working as a team is a whole different thing. 
 </br> So knowing how to use it as a team is a crucial skill you need to know and work on. Here are some step by step how to use Github and learn Github workflow in LTV that you need to check out. 
 
-### Jira Software <img src="https://fd-assets.prod.atl-paas.net/image/logos/contrib/jira-software/icons/white.svg" width="18"><a name="heading1.2"></a>
-Jira is a software application used for <b>issue tracking and project management</b>being operated and used in the company.
+#### 1.2.1. Github workflow 💎 <a name="heading1.2.1"></a>
+- 🔀 After picking the task, **`MUST`** create the branch from main with the name following the task issue ID. E.g: `feature/TAS-55`
+the feature is task type. 
+  * E.g: 🔧 feature / 🐛 bugfix / 🧪 improve / 💅 refactor
+  * `TAS` is the project key
+  * `55` is the issue number
+- ✅ Push the code to branch after finished, commit with convention (E.g: feat(frontend): login with google provider | JIRA: TAS-55 #time 4h, TAS-56 #time 4h.
+- 👤 Add the reviewer (backend → @Cuong Phan + @Luc , frontend → @Luc).
 
-### Slack <img src="../../assets/images/slack.svg" width="20"><a name="heading1.3"></a>
+```mermaid
+  flowchart LR;
+      A[Pick sub-tasks]-->B[Create a branch];
+      B -- finished --> C[Commit & Push];
+      C --> D[Add reviewers & assignees];
+```
+
+### 1.3. Slack <img src="../../assets/images/slack.svg" width="20"><a name="heading1.3"></a>
 Slack is a messaging program designed specifically for the office, but has also been adopted for personal use. LTV are using it for member communication when _working from home_.
 
-## Common Problems as a Beginner <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="24" /><a name="heading2"></a>
+## II. Common Problems as a Beginner <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="24" /><a name="heading2"></a>
