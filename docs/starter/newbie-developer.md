@@ -32,7 +32,7 @@
 The first thing I want to discuss 💬 are some technical problems when I was a beginner joining a Software Development Team. I found it difficult to know where I need to start and what need to do 📝. So here are some common problems I have faced to let you guys know what to focus on and how to start working as a team member in an LTV Development Team.
 
 ### 1.1. Jira Software <img src="https://fd-assets.prod.atl-paas.net/image/logos/contrib/jira-software/icons/white.svg" width="18"><a name="heading1.1"></a>
-Jira is a software application used for <b>issue tracking and project management</b>being operated and used in the company. So here are some notes you have to remember 📝.
+Jira is a software application used for <b>issue tracking and project management</b> being operated and used in the company. So here are some notes you have to remember 📝.
 
 #### 1.1.1. Pick the User story/Requirements for the sprint 💎 <a name="heading1.1.1"></a>
 - ▶️ In each sprint , the kick-off meeting will be happening on the 1st day of the sprint.
@@ -72,11 +72,10 @@ Yes! Hand down, Github is the most used service of any IT organization including
 
 #### 1.2.1. Github workflow 💎 <a name="heading1.2.1"></a>
 - 🔀 After picking the task, **`MUST`** create the branch from main with the name following the task issue ID. E.g: `feature/TAS-55`
-the feature is task type. 
-  * E.g: 🔧 feature / 🐛 bugfix / 🧪 improve / 💅 refactor
+  * `feature` is task type. E.g: 🔧 feature / 🐛 bugfix / 🧪 improve / 💅 refactor
   * `TAS` is the project key
   * `55` is the issue number
-- ✅ Push the code to branch after finished, commit with convention (E.g: feat(frontend): login with google provider | JIRA: TAS-55 #time 4h, TAS-56 #time 4h.
+- ✅ Push the code to branch after finished, commit with convention (E.g: _feat(frontend): login with google provider | JIRA: TAS-55 #time 4h, TAS-56 #time 2h_.
 - 👤 Add the reviewer (backend → @Cuong Phan + @Luc , frontend → @Luc).
 
 ```mermaid
@@ -94,3 +93,11 @@ So you want to have a day off; Vacation Tracker is an easy-to-use leave tracking
 <a href="https://www.youtube.com/watch?v=5-Zsjgx6ctc">How to use Vacation Tracker</a>
 
 ## II. Common Problems as a Beginner <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="24" /><a name="heading2"></a>
+- ❗*Not asking for support*: This is the biggest problem of all. Trying to work on a problem by yourself but not knowing where to start and what to do is time-consuming for not only you but other team members. So if you find that the problem is kinda hard for the current skill level you have or not know to solve it then asking other developers for help is the **`BEST`** solution.
+- ❗*Not asking questions*: *“What the hell is going on?”* after reading the requirements or in a team meeting. Do not understand the requirements or some confusion and again all you need to do is just **`ASK`**; Instead you just silently work on your idea despite the confusion you have.
+- ❗*Not spending time for team communication*: Spending time chatting or talking with other developers is a great way to learn faster and make connection in a team; Because in different projects you will work with different team member so make a move not harm anything.
+- ❗*Not reading this document*: Yeah! You need to read this document.
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>Thank you for spending time reading</b> so if you have any suggestions please let me know. <b>I'll be happy to help you more!</b> 😊</em>
+ </div>
+
