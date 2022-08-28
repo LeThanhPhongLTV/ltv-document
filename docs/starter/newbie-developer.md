@@ -99,7 +99,7 @@ So you want to have a day off; Vacation Tracker is an easy-to-use leave tracking
 - ❗*Not reading this document*: Yeah! You need to read this document. 
 
 <div align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>Thank you for spending time reading</b> so if you have any suggestions please let me know. <b>I'll be happy to help you more!</b> 😊 <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="50">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>Thank you for spending time reading</b> so if you have any suggestions please let me know. <b>I'll be happy to help you more!</b> 😊 <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="60">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
  </div>
 
