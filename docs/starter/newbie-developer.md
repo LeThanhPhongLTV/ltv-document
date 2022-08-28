@@ -21,7 +21,7 @@
   * [Github](#heading1.2)
     + [Github workflow](#heading1.2.1)
   * [Slack](#heading1.3)
-    + [Sub para heading](#heading1.3.1)
+    + [Vacation tracker](#heading1.3.1)
 - ⛔ [Common Problems as a Beginner](#heading2)
 
 ## Introduction <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> <a name="introduction"></a>
@@ -88,5 +88,9 @@ the feature is task type.
 
 ### 1.3. Slack <img src="../../assets/images/slack.svg" width="20"><a name="heading1.3"></a>
 Slack is a messaging program designed specifically for the office, but has also been adopted for personal use. LTV are using it for member communication when _working from home_.
+
+#### 1.3.1. Vacation tracker 💎 <a name="heading1.3.1"></a>
+So you want to have a day off; Vacation Tracker is an easy-to-use leave tracking tool that simplifies the way you manage your teams' PTO requests, work from home days, sick leaves and more - directly from Slack.
+<a href="https://www.youtube.com/watch?v=5-Zsjgx6ctc">How to use Vacation Tracker</a>
 
 ## II. Common Problems as a Beginner <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="24" /><a name="heading2"></a>
